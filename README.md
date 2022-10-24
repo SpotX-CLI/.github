@@ -1,0 +1,2 @@
+# .github
+SpotX-CLI readme
